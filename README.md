@@ -7,7 +7,7 @@ Snippets of CSS overrides that can be injected into a Primer for low-level style
 ## Available Infusions:
 
 - Flatmode
-	For Primers designed with flat graphics, this infusion removes image tinting and shading gradients.
+	- For Primers designed with flat graphics, this infusion removes image tinting and shading gradients.
 
 - Giant Intestitials
-	This makes interstitials SUPER TALL, taking up nearly whole viewport height on most breakpoints.
+	- This makes interstitials SUPER TALL, taking up nearly whole viewport height on most breakpoints.
