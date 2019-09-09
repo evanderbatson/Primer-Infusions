@@ -21,12 +21,15 @@
     height: 60vh;
 }
 
-@media screen and (min-width: 1440px) {
-.interstitial-card {
-    max-height: 90vh;
+@media screen and (min-width: 721px) {
+	.interstitial-card {
+	    height: 90vw;
+	}
 }
 
-@media screen and (min-width: 721px) {
-.interstitial-card {
-    height: 90vw;
+@media screen and (min-width: 1440px) {
+	.interstitial-card {
+	    max-height: 90vh;
+	}
 }
+
