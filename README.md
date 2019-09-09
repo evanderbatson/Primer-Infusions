@@ -18,7 +18,7 @@ Snippets of CSS overrides that can be injected into a Primer for low-level style
 
 ---
 
-## Available Infusions:
+## Available Flavors:
 
 - Flatmode
 	- For Primers designed with flat graphics, this infusion removes image tinting and shading gradients.
