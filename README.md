@@ -25,3 +25,6 @@ Snippets of CSS overrides that can be injected into a Primer for low-level style
 
 - Giant Intestitials
 	- This makes interstitials SUPER TALL, taking up nearly whole viewport height on most breakpoints.
+
+- Image Only Flipcards
+    - This removes the darkening on the backs of flippy cards, enabling a pure visual flipping experience with no superimposed text on the back.
