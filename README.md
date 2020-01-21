@@ -28,3 +28,6 @@ Snippets of CSS overrides that can be injected into a Primer for low-level style
 
 - Image Only Flipcards
     - This removes the darkening on the backs of flippy cards, enabling a pure visual flipping experience with no superimposed text on the back.
+
+- Tiny Corners
+    - This makes the button labels on the Four Corners the smaller caption type size to accomidate more label text
