@@ -31,3 +31,6 @@ Snippets of CSS overrides that can be injected into a Primer for low-level style
 
 - Tiny Corners
     - This makes the button labels on the Four Corners the smaller caption type size to accomidate more label text
+
+- Listicle Mode
+    - For Primers that use descriptors as the number headings for a listicle layout. 
