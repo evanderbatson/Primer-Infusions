@@ -20,7 +20,7 @@ WARNINGS: Use only single character glyphs when using this Infusion, i.e. (1, 2,
 
 /* descriptors */
 
-.section__descriptor {
+.section__descriptor, .gallery-container__descriptor {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -32,6 +32,6 @@ WARNINGS: Use only single character glyphs when using this Infusion, i.e. (1, 2,
     opacity: 1;
 }
 
-.section__descriptor:empty {
+.section__descriptor:empty, .gallery-container__descriptor:empty {
 	border: none;
 }
