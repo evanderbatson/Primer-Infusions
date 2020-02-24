@@ -31,7 +31,3 @@ WARNINGS: Use only single character glyphs when using this Infusion, i.e. (1, 2,
     border-radius: 2em;
     opacity: 1;
 }
-
-.section__descriptor:empty, .gallery-container__descriptor:empty {
-	border: none;
-}
