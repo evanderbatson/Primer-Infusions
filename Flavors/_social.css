@@ -27,3 +27,23 @@ Primer Infusions — SOCIAL, v1
 .flip-card__button {
 	background: #1C974D;
 }
+
+/* soft shadows on info images */
+
+.information-card__image {
+    filter: drop-shadow(16px 16px 16px rgba(0, 0, 0, 0.5));
+}
+
+/* per section gradients */
+
+#build-intro {
+	background: linear-gradient(90deg, rgba(18,21,22,1) 25%, rgba(0,212,255,1) 100%);
+}
+
+#grow-intro {
+	background: linear-gradient(90deg, rgba(20,1,11,1) 25%, rgba(102,85,38,1) 100%);
+}
+
+#secure-intro {
+	background: linear-gradient(90deg, rgba(4,23,27,1) 25%, rgba(89,112,34,1) 100%);
+}
