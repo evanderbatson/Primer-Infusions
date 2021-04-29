@@ -11,7 +11,7 @@
 ░░░░░░░░░░░░░░░░░ 𝓘𝓷𝓯𝓾𝓼𝓲𝓸𝓷𝓼 ™ ░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 
 
-Primer Infusions — SOCIAL, v1
+Primer Infusions — SOCIAL, v3
 -This infusion is for making a Primer look like a social media platform
 
 */
@@ -37,7 +37,7 @@ Primer Infusions — SOCIAL, v1
 /* per section gradients */
 
 #build-intro {
-	background: linear-gradient(90deg, rgba(18,21,22,1) 25%, rgba(0,212,255,1) 100%);
+	background: linear-gradient(90deg, rgba(18,21,22,1) 25%, rgba(24,118,140,1) 100%);
 }
 
 #grow-intro {
@@ -46,4 +46,18 @@ Primer Infusions — SOCIAL, v1
 
 #secure-intro {
 	background: linear-gradient(90deg, rgba(4,23,27,1) 25%, rgba(89,112,34,1) 100%);
+}
+
+@media (orientation: portrait) {
+	#build-intro {
+		background: linear-gradient(180deg, rgba(18,21,22,1) 25%, rgba(24,118,140,1) 100%);
+	}
+
+	#grow-intro {
+		background: linear-gradient(180deg, rgba(20,1,11,1) 25%, rgba(102,85,38,1) 100%);
+	}
+
+	#secure-intro {
+		background: linear-gradient(180deg, rgba(4,23,27,1) 25%, rgba(89,112,34,1) 100%);
+	}
 }
