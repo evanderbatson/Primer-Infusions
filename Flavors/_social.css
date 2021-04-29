@@ -22,6 +22,10 @@ Primer Infusions — SOCIAL, v3
 	border-radius: 1em;
 }
 
+.flip-card__verso::before {
+	border-radius: 1em;
+}
+
 /* green flip icons */
 
 .flip-card__button {
